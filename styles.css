@@ -23,7 +23,7 @@ h1 {
 
 #textColor{
   animation-name: textColorChange;
-  animation-duration: 4s;
+  animation-duration: 8s;
   animation-iteration-count: infinite;
   
 }
